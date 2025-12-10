@@ -1,0 +1,1 @@
+write-host "hej från PowerShell - Skriptet fungerar!"
